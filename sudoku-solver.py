@@ -77,5 +77,5 @@ def print_board(board):
 print_board(board)
 solve_board(board)
 print()
-print('Solved :')
+print()
 print_board(board)
